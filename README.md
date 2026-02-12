@@ -1,4 +1,4 @@
-[c add .txt](https://github.com/user-attachments/files/25266539/c.add.txt)
+
 #includen<studio,h>
 int main() {
     int a, b, sum = 0;
